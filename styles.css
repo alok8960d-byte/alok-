@@ -73,14 +73,14 @@ a.btn.light:hover{
     align-items: center;
     height: calc(100vh-131px);
 }
-.hero-container.her-text{
+.hero-container.her-text h1 {
   font-family: "Oleo Script Swash Caps", cursive;
-  font-size: normal;
+  font-weight: normal;
+  font-size: 60px;
   line-height: 100%;
 }
 
-
-
+.hero-container
 
 
 
